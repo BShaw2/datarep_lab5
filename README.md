@@ -1,0 +1,1 @@
+Express is a web framework that can be installed for node js which provides a lot of extra features which you dont need to implement yourself
